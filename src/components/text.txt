@@ -1,0 +1,8 @@
+business
+entertainment
+general
+health
+science
+sports
+technology
+https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=2beb184350ba4eef85599689fba00e6d&pagesize=${this.props.pageSize}

@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 69,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNBC",
+            "title": "European markets open higher after worst week of the year - CNBC",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDIvMjcvZXVyb3BlYW4tbWFya2V0cy1saXZlLXVwZGF0ZXMtc3RvY2tzLWRhdGEtbmV3cy1hbmQtZWFybmluZ3MuaHRtbNIBZGh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDIzLzAyLzI3L2V1cm9wZWFuLW1hcmtldHMtbGl2ZS11cGRhdGVzLXN0b2Nrcy1kYXRhLW5ld3MtYW5kLWVhcm5pbmdzLmh0bWw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T08:32:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Reuters",
+            "title": "Morning Bid: It's all about inflation - Reuters",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZXVyb3BlL2dsb2JhbC1tYXJrZXRzLXZpZXctZXVyb3BlLTIwMjMtMDItMjcv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T08:17:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Reuters",
+            "title": "Nokia changes iconic logo to signal strategy shift - Reuters",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvbm9raWEtY2hhbmdlcy1pY29uaWMtbG9nby1zaWduYWwtc3RyYXRlZ3ktc2hpZnQtMjAyMy0wMi0yNi_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T06:59:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNBC",
+            "title": "CNBC Daily Open: Inflation in January was hotter than expected. Markets felt the heat - CNBC",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDIvMjcvc3RvY2stbWFya2V0cy1pbmZsYXRpb24taW4tamFudWFyeS13YXMtaG90dGVyLXRoYW4tZXhwZWN0ZWQuaHRtbNIBZGh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDIzLzAyLzI3L3N0b2NrLW1hcmtldHMtaW5mbGF0aW9uLWluLWphbnVhcnktd2FzLWhvdHRlci10aGFuLWV4cGVjdGVkLmh0bWw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T06:15:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Engadget",
+            "title": "Mercedes-Benz is bringing WebEx meetings to the new E-Class sedans - Engadget",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmVuZ2FkZ2V0LmNvbS9tZXJjZWRlcy1iZW56LWlzLWJyaW5naW5nLXdlYmV4LW1lZXRpbmdzLXRvLXRoZS1uZXctZS1jbGFzcy1zZWRhbnMtMDUwMDA5ODM0Lmh0bWzSAW5odHRwczovL3d3dy5lbmdhZGdldC5jb20vYW1wL21lcmNlZGVzLWJlbnotaXMtYnJpbmdpbmctd2ViZXgtbWVldGluZ3MtdG8tdGhlLW5ldy1lLWNsYXNzLXNlZGFucy0wNTAwMDk4MzQuaHRtbA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T05:02:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNN",
+            "title": "Economists' crystal balls are growing cloudier. But they still expect a recession - CNN",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMi8yNy9lY29ub215L25hYmUtZWNvbm9taWMtb3V0bG9vay1mZWJydWFyeS9pbmRleC5odG1s0gFUaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyMy8wMi8yNy9lY29ub215L25hYmUtZWNvbm9taWMtb3V0bG9vay1mZWJydWFyeS9pbmRleC5odG1s?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T05:02:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Reuters",
+            "title": "Oil lower on firm dollar, market shrugs off Russian supply cuts - Reuters",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2VuZXJneS9vaWwtbGl0dGxlLWNoYW5nZWQtcnVzc2lhbi1zdXBwbHktY3V0cy1zdXBwb3J0LXByaWNlcy0yMDIzLTAyLTI3L9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T04:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNBC",
+            "title": "Stock futures are little changed after major averages suffer biggest weekly losses of the year: Live updates - CNBC",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDIvMjYvc3RvY2stbWFya2V0LWZ1dHVyZXMtb3Blbi10by1jbG9zZS1uZXdzLmh0bWzSAVBodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8wMi8yNi9zdG9jay1tYXJrZXQtZnV0dXJlcy1vcGVuLXRvLWNsb3NlLW5ld3MuaHRtbA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T03:56:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Insider",
+            "title": "PHOTOS: Terrible conditions of cobalt mining industry to meet battery demands - Insider",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lmluc2lkZXIuY29tL3Bob3Rvcy10ZXJyaWJsZS1jb25kaXRpb25zLWNvYmFsdC1taW5pbmctaW5kdXN0cnktdG8tbWVldC1iYXR0ZXJ5LWRlbWFuZHMtMjAyMy0y0gFsaHR0cHM6Ly93d3cuaW5zaWRlci5jb20vcGhvdG9zLXRlcnJpYmxlLWNvbmRpdGlvbnMtY29iYWx0LW1pbmluZy1pbmR1c3RyeS10by1tZWV0LWJhdHRlcnktZGVtYW5kcy0yMDIzLTI_YW1w?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T03:35:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Reuters",
+            "title": "Microsoft unveils suite of cloud tools for telecom firms - Reuters",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvbWljcm9zb2Z0LXVudmVpbHMtc3VpdGUtY2xvdWQtdG9vbHMtdGVsZWNvbS1maXJtcy0yMDIzLTAyLTI2L9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T03:16:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Washington Post",
+            "title": "China, world's largest polluter, approves most coal plants in seven years - The Washington Post",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDIzLzAyLzI2L2NoaW5hLWNvYWwtcGxhbnQtZm9zc2lsLWZ1ZWwtcG9sbHV0aW9uL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T03:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Wall Street Journal",
+            "title": "Pfizer in Talks to Acquire Seagen in Deal Likely Valued at More Than $30 Billion - WSJ - The Wall Street Journal",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lndzai5jb20vYXJ0aWNsZXMvcGZpemVyLWluLWVhcmx5LXN0YWdlLXRhbGtzLXRvLWFjcXVpcmUtc2VhZ2VuLTNmNTMzMDll0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T02:56:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "NDTV",
+            "title": "US Man Places Apple AirTag On His Ex-Wife's Car To Stalk Her: Police - NDTV",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lm5kdHYuY29tL2ZlYXR1cmUvdXMtbWFuLXBsYWNlcy1hcHBsZS1haXJ0YWctb24taGlzLWV4LXdpZmVzLWNhci10by1zdGFsay1oZXItcG9saWNlLTM4MTcxMzfSAW1odHRwczovL3d3dy5uZHR2LmNvbS9mZWF0dXJlL3VzLW1hbi1wbGFjZXMtYXBwbGUtYWlydGFnLW9uLWhpcy1leC13aWZlcy1jYXItdG8tc3RhbGstaGVyLXBvbGljZS0zODE3MTM3L2FtcC8x?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T02:53:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Benzinga",
+            "title": "Bitcoin Rises But Analyst Sees Drag To $21.5K On Bond Market Selloff - Benzinga",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5iZW56aW5nYS5jb20vbWFya2V0cy9jcnlwdG9jdXJyZW5jeS8yMy8wMi8zMTA2MzA5OC9iaXRjb2luLWV0aGVyZXVtLWRvZ2Vjb2luLXJpc2UtYW5hbHlzdC13YXJucy11Z2x5LWJvbmQtbWFya2V0LXNlbGxvZmYtY291bGQtcHVsbC1hcGV4LWNyeXDSAS1odHRwczovL3d3dy5iZW56aW5nYS5jb20vYW1wL2NvbnRlbnQvMzEwNjMwOTg?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T02:43:49Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Barron's",
+            "title": "Tesla, Salesforce, Target, Zoom, Goldman Sachs, Costco, and More Stocks to Watch This Week - Barron's",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmJhcnJvbnMuY29tL2FydGljbGVzL3N0b2Nrcy10by13YXRjaC10aGlzLXdlZWstdGVzbGEtc2FsZXNmb3JjZS10YXJnZXQtem9vbS1jb3N0Y28tNWEzZjhlYWPSAWtodHRwczovL3d3dy5iYXJyb25zLmNvbS9hbXAvYXJ0aWNsZXMvc3RvY2tzLXRvLXdhdGNoLXRoaXMtd2Vlay10ZXNsYS1zYWxlc2ZvcmNlLXRhcmdldC16b29tLWNvc3Rjby01YTNmOGVhYw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T02:32:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNBC",
+            "title": "All investors need a worldview. Here's mine and how to think about developing your own - CNBC",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDIvMjYvY3JhbWVyLWFsbC1pbnZlc3RvcnMtbmVlZC1hLXdvcmxkdmlldy1oZXJlcy1taW5lLWhvdy10by1kZXZlbG9wLXlvdXJzLmh0bWzSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T02:20:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Financial Times",
+            "title": "Citigroup loses top London-based dealmaker - Financial Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzQ4MzgwMGI2LTIyYWUtNDFlNC1iMDBmLTA1MzUxZjk0MmU3MtIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T02:15:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Seeking Alpha",
+            "title": "Berkshire Hathaway: Warren Buffett Step Away From The Keyboard (NYSE:BRK.A) - Seeking Alpha",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vc2Vla2luZ2FscGhhLmNvbS9hcnRpY2xlLzQ1ODIyNTYtYmVya3NoaXJlLWhhdGhhd2F5LXdhcnJlbi1idWZmZXR0LWFubnVhbC1sZXR0ZXItc2hhcmVob2xkZXJzLTIwMjLSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T02:08:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "WWMT-TV",
+            "title": "Consumers Energy update on power outages Sunday - WWMT-TV",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3dtdC5jb20vbmV3cy9sb2NhbC9jb25zdW1lcnMtZW5lcmd5LXVwZGF0ZS1vbi1wb3dlci1vdXRhZ2VzLXN1bmRhedIBT2h0dHBzOi8vd3dtdC5jb20vYW1wL25ld3MvbG9jYWwvY29uc3VtZXJzLWVuZXJneS11cGRhdGUtb24tcG93ZXItb3V0YWdlcy1zdW5kYXk?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T01:52:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Slashdot",
+            "title": "Survey Claims Some Companies are Already Replacing Workers With ChatGPT - Slashdot",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vaXQuc2xhc2hkb3Qub3JnL3N0b3J5LzIzLzAyLzI3LzAwOTIzNC9zdXJ2ZXktY2xhaW1zLXNvbWUtY29tcGFuaWVzLWFyZS1hbHJlYWR5LXJlcGxhY2luZy13b3JrZXJzLXdpdGgtY2hhdGdwdNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-27T00:54:22Z",
+            "content": null
+        }
+    ]
+}
